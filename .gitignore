@@ -2,3 +2,6 @@ ServiceStack.Android/bin/
 ServiceStack.Client/bin/
 ServiceStack.Android/gen/
 ServiceStack.Client/gen/
+FlipView/bin/
+GestureDetectors/bin/
+ViewPagerIndicators/bin/
